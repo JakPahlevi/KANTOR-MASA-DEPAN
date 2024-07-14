@@ -9,12 +9,11 @@
 
           <div class="home-data">
             <h1 class="home-title">
-              We Teach You <br />
-              Everything You Need To Know
+              Belajar Fleksibel <br />
+              Inovasi Pendidikan, Inspirasi Masa Depan
             </h1>
             <p class="home-description">
-              Discover the way you learn & take control of your life and make
-              something useful for others.
+              "Transformasi Pembelajaran, Belajar Kapan Saja, Di Mana Saja, Untuk Semua"
             </p>
             <div class="home-btns">
               <a href="{{ route('courses.index') }}" class="button btn-gray btn-small"> My Course </a>
@@ -29,11 +28,11 @@
           <div class="story-data">
             <h2 class="section-title story-section-title">Our Goals</h2>
             <h1 class="story-title">
-              Enjoy learning without any pressure
+              Nikmati Belajar Tanpa Tekanan
             </h1>
 
             <p class="story-description">
-              Learn make something with real world project that help you increase creativity
+              Belajar membuat sesuatu dengan proyek dunia nyata yang membantu meningkatkan kreativitas Anda.
             </p>
             <a href="#course" class="button btn-small">Discover</a>
           </div>
@@ -113,9 +112,7 @@
                   <i class="bx bxs-quote-alt-left"></i>
                 </div>
                 <p class="testimonial-description">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. In,
-                  labore reiciendis laboriosam quos at eum, sed sequi tempore
-                  perspiciatis magnam iste quas sit minima provident!
+                  Belajar di Belajar Wak! sangat menyenangkan! Materi mudah dipahami dan interaktif. Sangat membantu meningkatkan keterampilan saya.
                 </p>
                 <h3 class="testimonial-date">March 27, 2021</h3>
 
@@ -139,11 +136,9 @@
                   <i class="bx bxs-quote-alt-left"></i>
                 </div>
                 <p class="testimonial-description">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. In,
-                  labore reiciendis laboriosam quos at eum, sed sequi tempore
-                  perspiciatis magnam iste quas sit minima provident!
+                  Pengalaman belajar terbaik! Platform Belajar Wak! sangat user-friendly dan penuh fitur bermanfaat. Sangat direkomendasikan!
                 </p>
-                <h3 class="testimonial-date">March 27, 2021</h3>
+                <h3 class="testimonial-date">March 27, 2022</h3>
 
                 <div class="testimonial-profile" style="justify-content: center;flex-direction: column;row-gap: 1.4rem;">
                   <img
@@ -153,9 +148,9 @@
                   />
 
                   <div class="testimonial-profile-data">
-                    <span class="testimonial-profile-name">John Doe</span>
+                    <span class="testimonial-profile-name">Ben Parkinson</span>
                     <span class="testimonial-profile-detail"
-                      >Director of a Company</span
+                      >Uncle and Retired</span
                     >
                   </div>
                 </div>
@@ -165,11 +160,9 @@
                   <i class="bx bxs-quote-alt-left"></i>
                 </div>
                 <p class="testimonial-description">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. In,
-                  labore reiciendis laboriosam quos at eum, sed sequi tempore
-                  perspiciatis magnam iste quas sit minima provident!
+                  Terima kasih, Belajar Wak! Dengan kursus yang komprehensif, saya bisa belajar dengan fleksibel dan efisien.
                 </p>
-                <h3 class="testimonial-date">March 27, 2021</h3>
+                <h3 class="testimonial-date">March 27, 2023</h3>
 
                 <div class="testimonial-profile" style="justify-content: center;flex-direction: column;row-gap: 1.4rem;">
                   <img
@@ -179,9 +172,9 @@
                   />
 
                   <div class="testimonial-profile-data">
-                    <span class="testimonial-profile-name">John Doe</span>
+                    <span class="testimonial-profile-name">Samuel James Witwicky</span>
                     <span class="testimonial-profile-detail"
-                      >Director of a Company</span
+                      >College Student</span
                     >
                   </div>
                 </div>

@@ -22,7 +22,7 @@
     <header class="header" id="header">
       <div class="nav container">
         <a href="{{ route('home') }}" class="nav-logo">
-        <i class='bx bx-compass'></i> BERAJAH
+        <i class='bx bx-compass'></i> BELAJAR WAK!
         </a>
 
         <div class="nav-menu" id="nav-menu">
@@ -133,8 +133,8 @@
         <div class="footer-content">
           <h3 class="footer-title">Our Information</h3>
           <ul class="footer-list">
-            <li>123456789</li>
-            <li>Lombok, INDONESIA</li>
+            <li>Jl. Ir H. Juanda No.95, Ciputat</li>
+            <li>Jakarta, INDONESIA</li>
           </ul>
         </div>
 
@@ -184,7 +184,7 @@
         </div>
       </div>
 
-      <span class="footer-copy">&#169; Abdul Aziz. All rights</span>
+      <span class="footer-copy">&#169; Kelompok 1. All rights</span>
     </footer>
 
     <a href="#" class="scroll-up" id="scroll-up">
